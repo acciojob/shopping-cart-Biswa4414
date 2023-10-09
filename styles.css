@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+h3 {
+    margin: 20px;
+}
+
+#item-name-input, #item-price-input {
+    margin: 10px;
+}
